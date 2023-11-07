@@ -1,0 +1,34 @@
+[
+    {
+        "_id": { "$oid": "654a79f8127c3714aad18d01" },
+        "name": "lode runner",
+        "genre": "plataformas",
+        "members": ["Brøderbund"],
+        "edition": 1983,
+        "total_score": 0
+    },
+    {
+        "_id": { "$oid": "654a79f8127c3714aad18d02" },
+        "name": "super mario bros.",
+        "genre": "plataformas",
+        "members": ["nintendo"],
+        "edition": 1985,
+        "total_score": 0
+    },
+    {
+        "_id": { "$oid": "654a79f8127c3714aad18d03" },
+        "name": "golden axe 3",
+        "genre": "yo_contra_todos",
+        "members": ["sega"],
+        "edition": 1993,
+        "total_score": 0
+    },
+    {
+        "_id": { "$oid": "654a79f8127c3714aad18d04" },
+        "name": "mortal kombat 2",
+        "genre": "lucha",
+        "members": ["sega"],
+        "edition": 1993,
+        "total_score": 0
+    }
+]

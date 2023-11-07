@@ -1,0 +1,52 @@
+[
+    {
+        "judge_id": "754a79f8127c3714aad18d01",
+        "game_id" : "654a79f8127c3714aad18d01",
+        "judge_name": "alfio argento",
+        "game_name": "lode runner",
+        "playability": 8,
+        "art": 8,
+        "sound": 5,
+        "afinity": 10
+    },
+    {
+        "judge_id": "754a79f8127c3714aad18d03",
+        "game_id" : "654a79f8127c3714aad18d02",
+        "judge_name": "carl carlson",
+        "game_name": "super mario bros.",
+        "playability": 6,
+        "art": 6,
+        "sound": 6,
+        "afinity": 10
+    },
+    {
+        "judge_id": "754a79f8127c3714aad18d04",
+        "game_id" : "654a79f8127c3714aad18d03",
+        "judge_name": "alexis texas",
+        "game_name": "golden axe 3",
+        "playability": 7,
+        "art": 6,
+        "sound": 6,
+        "afinity": 9
+    },
+    {
+        "judge_id": "754a79f8127c3714aad18d05",
+        "game_id" : "654a79f8127c3714aad18d01",
+        "judge_name": "dave mustaine",
+        "game_name": "lode runner",
+        "playability": 9,
+        "art": 8,
+        "sound": 7,
+        "afinity": 10
+    },
+    {
+        "judge_id": "754a79f8127c3714aad18d03",
+        "game_id" : "654a79f8127c3714aad18d03",
+        "judge_name": "carl carlson",
+        "game_name": "golden axe 3",
+        "playability": 8,
+        "art": 8,
+        "sound": 7,
+        "afinity": 9
+    }
+]

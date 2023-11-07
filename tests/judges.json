@@ -1,0 +1,22 @@
+[
+    {
+        "_id": { "$oid": "754a79f8127c3714aad18d01" },
+        "name": "alfio argento"
+    },
+    {
+        "_id": { "$oid": "754a79f8127c3714aad18d02" },
+        "name": "anthony stark"
+    },
+    {
+        "_id": { "$oid": "754a79f8127c3714aad18d03" },
+        "name": "carl carlson"
+    },
+    {
+        "_id": { "$oid": "754a79f8127c3714aad18d04" },
+        "name": "alexis texas"
+    },
+    {
+        "_id": { "$oid": "754a79f8127c3714aad18d05" },
+        "name": "dave mustaine"
+    }
+]
